@@ -13,4 +13,3 @@ Sequelize para comunicação com o Banco de Dados (MySQL)
 - preencha o arquivo .env com as informações de seu banco  
 - use "yarn dev" para iniciar o servidor  
 - use Insominia ou Postman para fazer requisições   
-
